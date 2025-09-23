@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ]
+  ],
+  "legacy_uid": "51228c55-6b02-07a3-2539-76cadb9e9c3f",
+  "instructors": {
+    "content": [
+      "891d7c90-6143-86fb-83a0-99073591da69"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "aeec1711-e023-4a51-2c0d-cf0f06ab94a4",
+    "website": "4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004"
+  },
+  "course_title": "Advanced Projects in the Visual Arts: Personal Narrative",
+  "course_description": "This advanced video class serves goes into greater depth on the topics covered in {{% resource_link \"835185ca-0f4d-4d61-884d-ab9c8f121b0c\" \"4.351 Introduction to Video\" %}}.\u00a0It also will explore the nature and function of narrative in cinema and video through exercises and screenings culminating in a final project. Starting with a brief introduction to the basic principles of classical narrative cinema, we will proceed to explore strategies designed to test the elements of narrative: story trajectory, character development, verisimilitude, time-space continuity, viewer identification, suspension of disbelief, and closure.",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.366",
+  "course_image_thumbnail": {
+    "content": "7ac1a85a-3070-b734-2563-43176ba9e2df",
+    "website": "4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Media Assignments"
+  ],
+  "site_uid": "f285116c-62e8-44ee-82a2-9e4a73481ab5",
+  "site_short_id": "4.366-spring-2004",
+  "site_url_path": "courses/4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004",
+  "title": "Course Metadata"
+}
