@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides seven examples of student work from this class.
   Each is courtesy of the student named, and used with permission.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -14,14 +16,14 @@ There are seven examples of student work from this class. Each is courtesy of th
 Midterm Project
 ---------------
 
-Sheila Longo - _Laundry Day_ ({{% resource_link "686faa53-02a2-4f49-ac00-8705abac60ba" "MP4 - 10 MB" %}})  
-Daniel McAnulty - _Nobody_ ({{% resource_link "845ad267-ac22-4961-9970-a1944d25baa6" "MP4 - 7 MB" %}})  
-Ran Tao - _Lost in the depths of..._ ({{% resource_link "ddb219a4-fea8-43a4-a020-2203701e2f5d" "MP4 - 13 MB" %}}) 
+Sheila Longo - _Laundry Day_ ([MP4 - 10 MB](http://www.archive.org/download/MIT4.366/mit-ocw-4.366-longo-laundry-220k.mp4))  
+Daniel McAnulty - _Nobody_ ([MP4 - 7 MB](http://www.archive.org/download/MIT4.366/mit-ocw-4.366-mcanulty-nobody-220k.mp4))  
+Ran Tao - _Lost in the depths of..._ ([MP4 - 13 MB](http://www.archive.org/download/MIT4.366/mit-ocw-4.366-tao-lost-220k.mp4)) 
 
 Final Project
 -------------
 
-Sheila Longo - _Walk With Me_ ({{% resource_link "1eaf995d-ece8-4e82-8a73-7c298dfde6f0" "MP4 - 21 MB" %}})  
-Daniel McAnulty - _Maybe next year will be better_ ({{% resource_link "f77ad83b-5fba-4236-88de-bc4c15ea1933" "MP4 - 5 MB" %}})  
-Ran Tao - _It's all in my head..._ ({{% resource_link "484f7f7e-7f43-465f-a187-305c2ee6e005" "MP4 - 9 MB" %}})  
-Carlos Dorta-Quinones - _Ventana_ ({{% resource_link "ab308c2b-e027-4abc-a81d-1880a07a1c3f" "MP4 - 20 MB" %}})
+Sheila Longo - _Walk With Me_ ([MP4 - 21 MB](http://www.archive.org/download/MIT4.366/mit-ocw-4.366-longo-walk-220k.mp4))  
+Daniel McAnulty - _Maybe next year will be better_ ([MP4 - 5 MB](http://www.archive.org/download/MIT4.366/mit-ocw-4.366-mcanulty-maybe-220k.mp4))  
+Ran Tao - _It's all in my head..._ ([MP4 - 9 MB](http://www.archive.org/download/MIT4.366/mit-ocw-4.366-tao-head-220k.mp4))  
+Carlos Dorta-Quinones - _Ventana_ ([MP4 - 20 MB](http://www.archive.org/download/MIT4.366/mit-ocw-4.366-dorta-ventana-220k.mp4))
