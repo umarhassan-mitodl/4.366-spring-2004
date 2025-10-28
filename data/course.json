@@ -28,8 +28,7 @@
     "website": "4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004"
   },
   "course_title": "Advanced Projects in the Visual Arts: Personal Narrative",
-  "hide_download": true,
-  "course_description": "This advanced video class serves goes into greater depth on the topics covered in [4.351 Introduction to Video](https://ocw.mit.edu/courses/4-351-introduction-to-video-spring-2004/).\u00a0It also will explore the nature and function of narrative in cinema and video through exercises and screenings culminating in a final project. Starting with a brief introduction to the basic principles of classical narrative cinema, we will proceed to explore strategies designed to test the elements of narrative: story trajectory, character development, verisimilitude, time-space continuity, viewer identification, suspension of disbelief, and closure.",
+  "course_description": "This advanced video class serves goes into greater depth on the topics covered in {{% resource_link \"7da94a58-d610-4641-826a-a80fc0768528\" \"4.351 Introduction to Video\" %}}.\u00a0It also will explore the nature and function of narrative in cinema and video through exercises and screenings culminating in a final project. Starting with a brief introduction to the basic principles of classical narrative cinema, we will proceed to explore strategies designed to test the elements of narrative: story trajectory, character development, verisimilitude, time-space continuity, viewer identification, suspension of disbelief, and closure.",
   "department_numbers": [
     "4"
   ],
@@ -39,7 +38,6 @@
     "content": "7ac1a85a-3070-b734-2563-43176ba9e2df",
     "website": "4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Projects with Examples",
     "Media Assignments"
